@@ -17,6 +17,10 @@ Token.
 
 
 
+
+
+// The basis of security checks for any solidity smart contract is CHECKS-EFFECTS-INTERACTIONS Pattern.
+
 pragma solidity ^0.4.10;
 
 import "./SafeMath.sol";

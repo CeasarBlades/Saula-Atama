@@ -226,4 +226,6 @@ contract Library{
     
 }
 
+The DAO hacker was the recursive refund function hack, the parity bug was when they nuked the library rendering the fuction unuseable.
+
 

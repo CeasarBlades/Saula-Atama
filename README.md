@@ -151,3 +151,4 @@ contract Attacker{
         Fundraiser(fundraiserAddress).withdraw();
     }
 }
+// what the attcker code soes is that it kkeps calling the function of the DAO without the DAO recordeing that it has called a refund.

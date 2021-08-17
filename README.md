@@ -20,6 +20,7 @@ Token.
 // KEEP IT SIMPLE , WHEN CODING SMART CONTRACT... I CANNOT EMPASIS HOW IMPORTANT IT IS FOR YOUR CODE TO BE SIMPLE, AND NOT COMPLEX BECAUSE OF LIBRARYS GETTING NUKED, OR PUBLIC FUCTION HAVING MUKLTIPLE ATTACKS ON IT FROM EXTERNAL FUCNTIONS.
 
 // one way of getting AROUND SMART CONTRACTS immutability is using upgardeability and thats using a proxy contract on the side, kind like a new block or of code just needs to be wired up
+// When dealing with Upgradeabnility as well the proxy and storage page or blocks remain, the function page or block will be removed and a new Func page can be added.
 
 // The basis of security checks for any solidity smart contract is CHECKS-EFFECTS-INTERACTIONS Pattern.
 

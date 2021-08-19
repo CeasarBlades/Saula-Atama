@@ -17,10 +17,10 @@ Token.
 
 
 
-// KEEP IT SIMPLE , WHEN CODING SMART CONTRACT... I CANNOT EMPASIS HOW IMPORTANT IT IS FOR YOUR CODE TO BE SIMPLE, AND NOT COMPLEX BECAUSE OF LIBRARYS GETTING NUKED, OR PUBLIC FUCTION HAVING MUKLTIPLE ATTACKS ON IT FROM EXTERNAL FUCNTIONS.
+// KEEP IT SIMPLE , WHEN CODING SMART CONTRACT... I CANNOT EMPASIS HOW IMPORTANT IT IS FOR YOUR CODE TO BE SIMPLE, AND NOT COMPLEX BECAUSE OF LIBRARYS GETTING NUKED, OR PUBLIC FUCTION HAVING MULTIPLE ATTACKS ON IT FROM EXTERNAL FUCNTIONS.
 
 // one way of getting AROUND SMART CONTRACTS immutability is using upgardeability and thats using a proxy contract on the side, kind like a new block or of code just needs to be wired up
-// When dealing with Upgradeabnility as well the proxy and storage page or blocks remain, the function page or block will be removed and a new Func page can be added.
+// When dealing with Upgradeability as well the proxy and storage page or blocks remain, the function page or block will be removed and a new Func page can be added.
 
 // The basis of security checks for any solidity smart contract is CHECKS-EFFECTS-INTERACTIONS Pattern.
 
@@ -154,7 +154,7 @@ contract Attacker{
         Fundraiser(fundraiserAddress).withdraw();
     }
 }
-// what the attcker code soes is that it kkeps calling the function of the DAO without the DAO recordeing that it has called a refund.
+// what the attcker code does is that it kkeps calling the function of the DAO without the DAO recordeing that it has called a refund.
 // Coding smart contracts , keep it simple, a good contract is simple to read and written in a simple manner, adding complexiticity like adding librarys or dependencies in libraries will present vulnerablities to your smart contract, example in injecting malicious code, calling a public function with fallbacks. which will cause major damages.
 
 

@@ -154,8 +154,8 @@ contract Attacker{
         Fundraiser(fundraiserAddress).withdraw();
     }
 }
-// what the attcker code does is that it kkeps calling the function of the DAO without the DAO recordeing that it has called a refund.
-// Coding smart contracts , keep it simple, a good contract is simple to read and written in a simple manner, adding complexiticity like adding librarys or dependencies in libraries will present vulnerablities to your smart contract, example in injecting malicious code, calling a public function with fallbacks. which will cause major damages.
+// what the attcker code does is that it keeps calling the function of the DAO without the DAO recording that it has called a refund.
+// Coding smart contracts , keep it simple, a good contract is simple to read and written in a simple manner, adding complexiticity like adding libaries or dependencies in libraries will present vulnerablities to your smart contract, example in injecting malicious code, calling a public function with fallbacks. which will cause major damages.
 
 
 Parity Freeze attack

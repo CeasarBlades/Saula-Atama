@@ -1,20 +1,16 @@
 # Saula-Atama
 
 Software Develpment Projects\
-Scales
 Fantasy Football
-Coin Tracker
-seasons2
-Pupparazzi
-Royal KV
+
 
 BlockChain
 Multi Sig Wallet
 Decentralised Exchange
 Coin Tracker
 Voting.
-Token.
-
+Token, Trading bot
+build a DEX, kitty, e-commerce, NFT and Dapp game marketplace for gamers, Chainlink. 
 
 
 // KEEP IT SIMPLE , WHEN CODING SMART CONTRACT... I CANNOT EMPASIS HOW IMPORTANT IT IS FOR YOUR CODE TO BE SIMPLE, AND NOT COMPLEX BECAUSE OF LIBRARYS GETTING NUKED, OR PUBLIC FUCTION HAVING MULTIPLE ATTACKS ON IT FROM EXTERNAL FUCNTIONS.
